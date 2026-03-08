@@ -1,0 +1,2 @@
+# temp-general-codespace-settings
+一般的なCLIや拡張機能の設定を含むdevcontainer定義のテンプレリポジトリ
