@@ -16,7 +16,6 @@ Use this repository as a template to quickly spin up a Codespace with essential 
 
 | Feature | Description |
 |---------|-------------|
-| **Node.js** | Node.js runtime via [stu-bell/devcontainer-features/node](https://github.com/stu-bell/devcontainer-features) |
 | **Azure CLI** | Azure command-line interface for managing Azure resources |
 | **GitHub CLI (`gh`)** | GitHub's official CLI for interacting with repositories, issues, PRs, and more |
 | **GitHub Copilot CLI** | AI-powered command-line assistant |
